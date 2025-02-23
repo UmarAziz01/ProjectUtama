@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas Tiga</string>
+    <string name="this_is_fates_forever_a_moba_developed_by_jasoncitron_svishnevskiy_that_would_lay_the_foundations_for_discord"><![CDATA[This is Fates Forever, a MOBA developed by @jasoncitron & @svishnevskiy that would lay the foundations for @discord.]]></string>
+    <string name="back">Back</string>
+    <string name="advertising_marketing_agency"><![CDATA[Advertising & Marketing Agency]]></string>
+    <string name="advertising_marketing__agency"><![CDATA[Advertising & Marketing Agency]]></string>
+    <string name="this_is_fates_forever_a_moba_developed_by_jasoncitron_svishevnskiy_that_would_lay_the_foundations_for_discord"><![CDATA[This is Fates Forever, a MOBA developed by @jasoncitron & @svishevnskiy that would lay the foundations for @discord.]]></string>
+    <string name="tweet_text">
+    This is Fates Forever, a MOBA developed by @jasoncitron &amp; @svishevnskiy
+    that would lay the foundations for @discord. So how did they go from
+    multiplayer games to a chat app that was meant for gamers but has
+    revolutionized how people communicate online?
+</string>
+    <string name="no_likes_yet">•• You haven\'t anything yet ••</string>
+    <string name="hallo">Hallo!!</string>
+    <string name="you_haven_t_anything_yet">•• You haven\'t anything yet ••</string>
+    <string name="you_haven_t_tweets_or_replies_anything_yet">•• You haven\'t tweets or replies anything yet ••</string>
+</resources>
